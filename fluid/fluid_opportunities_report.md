@@ -1,6 +1,6 @@
 # Fluid Supply Opportunities Report
 
-**Generated:** 2026-01-28 22:04:06 UTC
+**Generated:** 2026-01-30 19:53:21 UTC
 **Total Opportunities:** 13
 **Filter:** DeFi Arsenal Stablecoins Only (26 stablecoins)
 
@@ -14,7 +14,7 @@
   - Ethereum: 3
   - Plasma: 2
   - Polygon: 2
-- **Highest Total APR:** 7.05% (USDC on Ethereum)
+- **Highest Total APR:** 5.17% (GHO on Base)
 
 ## All Opportunities
 
@@ -22,19 +22,19 @@ Sorted by Total APR (descending)
 
 | Rank | Chain | Asset | Supply Rate (%) | Rewards Rate (%) | Staking APR (%) | Merkle APR (%) | **Total APR (%)** |
 |------|-------|-------|-----------------|------------------|-----------------|----------------|-------------------|
-| 1 | Ethereum | USDC | 5.97 | 0.00 | 0.00 | 1.08 | **7.05** |
-| 2 | Base | GHO | 2.61 | 0.00 | 0.00 | 3.30 | **5.91** |
-| 3 | Arbitrum | GHO | 2.98 | 0.00 | 0.00 | 2.59 | **5.57** |
-| 4 | Plasma | USDT0 | 2.83 | 0.00 | 0.00 | 2.56 | **5.39** |
-| 5 | Ethereum | USDT | 2.61 | 0.00 | 0.00 | 1.96 | **4.57** |
-| 6 | Base | USDC | 1.91 | 0.00 | 0.00 | 2.47 | **4.38** |
-| 7 | Arbitrum | USDC | 2.67 | 0.00 | 0.00 | 1.61 | **4.28** |
-| 8 | Base | EURC | 1.32 | 0.00 | 0.00 | 2.96 | **4.28** |
-| 9 | Ethereum | GHO | 2.84 | 0.00 | 0.00 | 1.38 | **4.22** |
-| 10 | Polygon | USDT | 3.20 | 0.00 | 0.00 | 0.00 | **3.20** |
-| 11 | Arbitrum | USDT | 1.47 | 0.00 | 0.00 | 1.58 | **3.05** |
-| 12 | Polygon | USDC | 1.56 | 0.00 | 0.00 | 0.00 | **1.56** |
-| 13 | Plasma | USDe | 0.39 | 0.00 | 0.00 | 0.00 | **0.39** |
+| 1 | Base | GHO | 2.35 | 0.00 | 0.00 | 2.82 | **5.17** |
+| 2 | Plasma | USDT0 | 2.82 | 0.00 | 0.00 | 2.21 | **5.03** |
+| 3 | Arbitrum | GHO | 2.76 | 0.00 | 0.00 | 2.26 | **5.02** |
+| 4 | Ethereum | USDC | 4.11 | 0.00 | 0.00 | 0.88 | **4.99** |
+| 5 | Ethereum | GHO | 3.62 | 0.00 | 0.00 | 1.22 | **4.84** |
+| 6 | Base | USDC | 2.12 | 0.00 | 0.00 | 2.26 | **4.38** |
+| 7 | Arbitrum | USDC | 2.82 | 0.00 | 0.00 | 1.40 | **4.22** |
+| 8 | Polygon | USDT | 4.18 | 0.00 | 0.00 | 0.00 | **4.18** |
+| 9 | Ethereum | USDT | 2.29 | 0.00 | 0.00 | 1.75 | **4.04** |
+| 10 | Base | EURC | 1.07 | 0.00 | 0.00 | 2.41 | **3.48** |
+| 11 | Arbitrum | USDT | 2.00 | 0.00 | 0.00 | 1.39 | **3.39** |
+| 12 | Polygon | USDC | 2.02 | 0.00 | 0.00 | 0.00 | **2.02** |
+| 13 | Plasma | USDe | 0.47 | 0.00 | 0.00 | 0.00 | **0.47** |
 
 ---
 

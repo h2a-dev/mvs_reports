@@ -1,6 +1,6 @@
 # Morpho Supply Opportunities Report
 
-**Generated:** 2026-01-30 00:08:48 UTC
+**Generated:** 2026-01-30 19:54:18 UTC
 **Total Opportunities:** 8
 **Filter:** DeFi Arsenal Stablecoins (26 assets) + Collateral (40 assets)
 
@@ -14,7 +14,7 @@
 - **Opportunities by Version:**
   - v1: 5
   - v2: 3
-- **Highest APY:** 7.63% (Sentora PYUSD Main on Ethereum)
+- **Highest APY:** 7.44% (Sentora PYUSD Main on Ethereum)
 
 ## All Opportunities
 
@@ -22,14 +22,14 @@ Sorted by APY (descending)
 
 | Rank | Chain | Vault Name | Version | Asset | APY (%) | Liquidity (USD) | Collateral Assets |
 |------|-------|------------|---------|-------|---------|-----------------|-------------------|
-| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 7.63 | $21,915,646 | sUSDS, wstETH, sUSDe, syrupUSDC, cbBTC, PT-sUSDE-5FEB2026 |
-| 2 | Base | Gauntlet USDC Prime | v2 | USDC | 5.20 | $55,281,071 | cbETH, WETH, wstETH, cbBTC |
-| 3 | Base | Steakhouse Prime Instant | v2 | USDC | 5.20 | $13,478,038 | cbETH, WETH, wstETH, cbBTC |
-| 4 | Base | Moonwell Flagship USDC | v1 | USDC | 4.62 | $0.00 | cbETH, WETH, wstETH, cbBTC |
-| 5 | Base | Gauntlet USDC Prime | v1 | USDC | 4.57 | $0.00 | cbETH, WETH, wstETH, cbBTC |
-| 6 | Base | Steakhouse Prime USDC | v1 | USDC | 4.57 | $0.00 | cbETH, WETH, wstETH, cbBTC |
-| 7 | Ethereum | kpk EURC Yield | v1 | EURC | 4.39 | $0.00 | WBTC, wstETH, WETH |
-| 8 | Base | Pangolins USDC | v1 | USDC | 4.12 | $0.00 | WETH, cbBTC |
+| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 7.44 | $27,887,044 | cbBTC, sUSDS, wstETH, syrupUSDC, sUSDe, PT-sUSDE-5FEB2026 |
+| 2 | Base | Gauntlet USDC Prime | v2 | USDC | 5.09 | $56,144,614 | wstETH, cbBTC, cbETH, WETH |
+| 3 | Base | Steakhouse Prime Instant | v2 | USDC | 5.09 | $13,465,679 | wstETH, cbBTC, cbETH, WETH |
+| 4 | Base | Gauntlet USDC Prime | v1 | USDC | 4.46 | $0.00 | wstETH, cbBTC, cbETH, WETH |
+| 5 | Base | Steakhouse Prime USDC | v1 | USDC | 4.45 | $0.00 | wstETH, cbBTC, cbETH, WETH |
+| 6 | Base | Moonwell Flagship USDC | v1 | USDC | 4.45 | $0.00 | wstETH, cbBTC, cbETH, WETH |
+| 7 | Base | Pangolins USDC | v1 | USDC | 4.01 | $0.00 | cbBTC, WETH |
+| 8 | Ethereum | kpk EURC Yield | v1 | EURC | 3.74 | $0.00 | wstETH, WETH, WBTC |
 
 ---
 
