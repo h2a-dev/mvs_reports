@@ -1,20 +1,21 @@
 # Morpho Supply Opportunities Report
 
-**Generated:** 2026-02-01 03:47:16 UTC
-**Total Opportunities:** 6
+**Generated:** 2026-02-01 23:41:36 UTC
+**Total Opportunities:** 7
 **Filter:** DeFi Arsenal Stablecoins (26 assets) + Collateral (40 assets)
 
 ## Summary
 
-- **Total Opportunities:** 6
-- **Unique Chains:** 2
+- **Total Opportunities:** 7
+- **Unique Chains:** 3
 - **Opportunities by Chain:**
+  - Arbitrum: 1
   - Base: 5
   - Ethereum: 1
 - **Opportunities by Version:**
-  - v1: 3
+  - v1: 4
   - v2: 3
-- **Highest APY:** 8.11% (Sentora PYUSD Main on Ethereum)
+- **Highest APY:** 7.87% (Sentora PYUSD Main on Ethereum)
 
 ## All Opportunities
 
@@ -22,12 +23,13 @@ Sorted by APY (descending)
 
 | Rank | Chain | Vault Name | Version | Asset | APY (%) | Liquidity (USD) | Collateral Assets |
 |------|-------|------------|---------|-------|---------|-----------------|-------------------|
-| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 8.11 | $23,526,735 | PT-sUSDE-5FEB2026, syrupUSDC, cbBTC, wstETH, sUSDS, sUSDe |
-| 2 | Base | Steakhouse Prime Instant | v2 | USDC | 4.30 | $12,247,187 | wstETH, WETH, cbETH, cbBTC |
-| 3 | Base | Moonwell Flagship USDC | v1 | USDC | 4.27 | $0.00 | cbBTC, WETH, cbETH, wstETH |
-| 4 | Base | Steakhouse Prime USDC | v1 | USDC | 4.24 | $0.00 | wstETH, WETH, cbETH, cbBTC |
-| 5 | Base | Gauntlet USDC Prime | v1 | USDC | 4.04 | $0.00 | wstETH, WETH, cbETH, cbBTC |
-| 6 | Base | Gauntlet USDC Prime | v2 | USDC | 3.97 | $58,010,043 | wstETH, WETH, cbETH, cbBTC |
+| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 7.87 | $23,793,043 | sUSDe, sUSDS, cbBTC, wstETH, PT-sUSDE-5FEB2026, syrupUSDC |
+| 2 | Base | Steakhouse Prime Instant | v2 | USDC | 4.10 | $12,078,456 | cbBTC, wstETH, WETH, cbETH |
+| 3 | Base | Gauntlet USDC Prime | v2 | USDC | 4.10 | $56,763,935 | cbBTC, wstETH, WETH, cbETH |
+| 4 | Base | Gauntlet USDC Prime | v1 | USDC | 4.10 | $0.00 | cbBTC, wstETH, WETH, cbETH |
+| 5 | Base | Steakhouse Prime USDC | v1 | USDC | 4.10 | $0.00 | cbBTC, wstETH, WETH, cbETH |
+| 6 | Base | Moonwell Flagship USDC | v1 | USDC | 4.09 | $0.00 | cbBTC, wstETH, WETH, cbETH |
+| 7 | Arbitrum | Gauntlet USDC Prime | v1 | USDC | 3.82 | $0.00 | sUSDS, wstETH, WBTC, WETH |
 
 ---
 
