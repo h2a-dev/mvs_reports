@@ -1,7 +1,7 @@
-## DeFi Arsenal for Collateral assets
-# This file contains a curated list of recommended collateral assets for DeFi supply opportunities.
+# DeFi Arsenal for Collateral assets
+## This file contains a curated list of recommended collateral assets for DeFi supply opportunities.
 
-## Recommended Assets
+# Recommended Assets
 USDC
 USDT
 USDT0
@@ -20,9 +20,6 @@ frxUSD
 sUSDS
 syrupUSDT
 syrupUSDC
-
-## PT Tokens (Pendle Finance)
-# PT tokens use prefix matching with date suffixes (e.g., "PT-USDe-31JUL2025" matches "PT-USDe")
 PT-USDe
 PT-sUSDe
 PT-USR
@@ -32,7 +29,18 @@ PT-syrupUSDC
 PT-syrupUSDT
 PT-sBOLD
 
-## BTC and ETH Assets
+# PT Tokens (Pendle Finance)
+## PT tokens use prefix matching with date suffixes (e.g., "PT-USDe-31JUL2025" matches "PT-USDe")
+PT-USDe
+PT-sUSDe
+PT-USR
+PT-wstUSR
+PT-RLP
+PT-syrupUSDC
+PT-syrupUSDT
+PT-sBOLD
+
+# BTC and ETH Assets
 cbBTC
 WBTC
 BTC.b

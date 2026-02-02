@@ -1,10 +1,9 @@
-## DeFi Arsenal Stablecoins
-# This file contains a curated list of recommended stablecoins for DeFi supply opportunities.
-# The stablecoins listed here have been vetted based on market capitalization, liquidity,
-# collateralization mechanisms, historical peg maintenance, smart contract audit quality,
-# and decentralization.
+# DeFi Arsenal Stablecoins
+## The stablecoins listed here have been vetted based on market capitalization, liquidity,
+## collateralization mechanisms, historical peg maintenance, smart contract audit quality,
+## and decentralization.
 
-## Recommended Stablecoins
+# Recommended Stablecoins
 USDC
 USDT
 USDT0
