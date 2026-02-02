@@ -1,21 +1,20 @@
 # Morpho Supply Opportunities Report
 
-**Generated:** 2026-02-02 06:04:05 UTC
-**Total Opportunities:** 6
+**Generated:** 2026-02-02 20:12:18 UTC
+**Total Opportunities:** 5
 **Filter:** DeFi Arsenal Stablecoins (26 assets) + Collateral (40 assets)
 
 ## Summary
 
-- **Total Opportunities:** 6
-- **Unique Chains:** 3
+- **Total Opportunities:** 5
+- **Unique Chains:** 2
 - **Opportunities by Chain:**
-  - Arbitrum: 1
   - Base: 4
   - Ethereum: 1
 - **Opportunities by Version:**
-  - v1: 3
+  - v1: 2
   - v2: 3
-- **Highest APY:** 7.86% (Sentora PYUSD Main on Ethereum)
+- **Highest APY:** 7.80% (Sentora PYUSD Main on Ethereum)
 
 ## All Opportunities
 
@@ -23,12 +22,11 @@ Sorted by APY (descending)
 
 | Rank | Chain | Vault Name | Version | Asset | APY (%) | Liquidity (USD) | Collateral Assets |
 |------|-------|------------|---------|-------|---------|-----------------|-------------------|
-| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 7.86 | $23,757,423 | PT-sUSDE-5FEB2026, syrupUSDC, wstETH, cbBTC, sUSDe, sUSDS |
-| 2 | Arbitrum | Gauntlet USDC Prime | v1 | USDC | 4.41 | $0.00 | WBTC, wstETH, WETH, sUSDS |
-| 3 | Base | Gauntlet USDC Prime | v1 | USDC | 4.04 | $0.00 | wstETH, WETH, cbETH, cbBTC |
-| 4 | Base | Gauntlet USDC Prime | v2 | USDC | 4.04 | $55,736,445 | wstETH, WETH, cbETH, cbBTC |
-| 5 | Base | Steakhouse Prime Instant | v2 | USDC | 4.04 | $12,006,627 | cbETH, WETH, wstETH, cbBTC |
-| 6 | Base | Steakhouse Prime USDC | v1 | USDC | 4.04 | $0.00 | cbETH, WETH, wstETH, cbBTC |
+| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 7.80 | $25,949,833 | sUSDS, syrupUSDC, PT-sUSDE-5FEB2026, cbBTC, sUSDe, wstETH |
+| 2 | Base | Gauntlet USDC Prime | v1 | USDC | 4.04 | $0.00 | cbBTC, WETH, cbETH, wstETH |
+| 3 | Base | Steakhouse Prime USDC | v1 | USDC | 4.03 | $0.00 | cbBTC, WETH, cbETH, wstETH |
+| 4 | Base | Gauntlet USDC Prime | v2 | USDC | 4.03 | $55,609,438 | cbBTC, WETH, cbETH, wstETH |
+| 5 | Base | Steakhouse Prime Instant | v2 | USDC | 4.03 | $12,019,312 | cbBTC, WETH, cbETH, wstETH |
 
 ---
 
