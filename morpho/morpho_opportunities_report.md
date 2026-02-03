@@ -1,20 +1,20 @@
 # Morpho Supply Opportunities Report
 
-**Generated:** 2026-02-02 20:12:18 UTC
-**Total Opportunities:** 5
+**Generated:** 2026-02-03 07:18:59 UTC
+**Total Opportunities:** 7
 **Filter:** DeFi Arsenal Stablecoins (26 assets) + Collateral (40 assets)
 
 ## Summary
 
-- **Total Opportunities:** 5
+- **Total Opportunities:** 7
 - **Unique Chains:** 2
 - **Opportunities by Chain:**
-  - Base: 4
-  - Ethereum: 1
+  - Base: 5
+  - Ethereum: 2
 - **Opportunities by Version:**
-  - v1: 2
+  - v1: 4
   - v2: 3
-- **Highest APY:** 7.80% (Sentora PYUSD Main on Ethereum)
+- **Highest APY:** 7.52% (Sentora PYUSD Main on Ethereum)
 
 ## All Opportunities
 
@@ -22,11 +22,13 @@ Sorted by APY (descending)
 
 | Rank | Chain | Vault Name | Version | Asset | APY (%) | Liquidity (USD) | Collateral Assets |
 |------|-------|------------|---------|-------|---------|-----------------|-------------------|
-| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 7.80 | $25,949,833 | sUSDS, syrupUSDC, PT-sUSDE-5FEB2026, cbBTC, sUSDe, wstETH |
-| 2 | Base | Gauntlet USDC Prime | v1 | USDC | 4.04 | $0.00 | cbBTC, WETH, cbETH, wstETH |
-| 3 | Base | Steakhouse Prime USDC | v1 | USDC | 4.03 | $0.00 | cbBTC, WETH, cbETH, wstETH |
-| 4 | Base | Gauntlet USDC Prime | v2 | USDC | 4.03 | $55,609,438 | cbBTC, WETH, cbETH, wstETH |
-| 5 | Base | Steakhouse Prime Instant | v2 | USDC | 4.03 | $12,019,312 | cbBTC, WETH, cbETH, wstETH |
+| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 7.52 | $30,180,908 | syrupUSDC, wstETH, sUSDe, sUSDS, cbBTC, PT-sUSDE-5FEB2026 |
+| 2 | Base | Moonwell Flagship USDC | v1 | USDC | 4.23 | $0.00 | WETH, cbBTC, cbETH, wstETH |
+| 3 | Base | Gauntlet USDC Prime | v2 | USDC | 4.03 | $55,270,080 | WETH, cbBTC, cbETH, wstETH |
+| 4 | Base | Steakhouse Prime Instant | v2 | USDC | 4.03 | $11,996,401 | WETH, cbBTC, cbETH, wstETH |
+| 5 | Base | Gauntlet USDC Prime | v1 | USDC | 4.03 | $0.00 | WETH, cbBTC, cbETH, wstETH |
+| 6 | Base | Steakhouse Prime USDC | v1 | USDC | 4.03 | $0.00 | WETH, cbBTC, cbETH, wstETH |
+| 7 | Ethereum | OEV-boosted USDC | v1 | USDC | 3.22 | $0.00 | WBTC, cbBTC, wstETH |
 
 ---
 
