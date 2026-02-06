@@ -1,18 +1,19 @@
 # Morpho Supply Opportunities Report
 
-**Generated:** 2026-02-06 19:25:55 UTC
-**Total Opportunities:** 1
+**Generated:** 2026-02-06 20:14:54 UTC
+**Total Opportunities:** 10
 **Filter:** DeFi Arsenal Stablecoins (26 assets) + Collateral (40 assets)
 
 ## Summary
 
-- **Total Opportunities:** 1
+- **Total Opportunities:** 10
 - **Unique Chains:** 1
 - **Opportunities by Chain:**
-  - Ethereum: 1
+  - Ethereum: 10
 - **Opportunities by Version:**
-  - v2: 1
-- **Highest APY:** 6.16% (Sentora PYUSD Main on Ethereum)
+  - v1: 4
+  - v2: 6
+- **Highest APY:** 6.09% (Sentora PYUSD Main on Ethereum)
 
 ## All Opportunities
 
@@ -20,7 +21,16 @@ Sorted by APY (descending)
 
 | Rank | Chain | Vault Name | Version | Asset | APY (%) | Liquidity (USD) | Collateral Assets |
 |------|-------|------------|---------|-------|---------|-----------------|-------------------|
-| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 6.16 | $95,000,403 | sUSDe, cbBTC, PT-sUSDE-5FEB2026, wstETH, syrupUSDC, sUSDS |
+| 1 | Ethereum | Sentora PYUSD Main | v2 | PYUSD | 6.09 | $95,911,590 | cbBTC, wstETH, PT-sUSDE-5FEB2026, sUSDe, sUSDS, syrupUSDC |
+| 2 | Ethereum | Gauntlet USDC Prime | v1 | USDC | 3.82 | $0.00 | wstETH, cbBTC, WBTC |
+| 3 | Ethereum | Clearstar Boring USDC | v2 | USDC | 3.78 | $2,276,100 | None |
+| 4 | Ethereum | Steakhouse USDC | v1 | USDC | 3.76 | $0.00 | wstETH, cbBTC, WBTC |
+| 5 | Ethereum | 3F x Steakhouse USDC | v2 | USDC | 3.74 | $3,246,282 | wstETH, cbBTC, WBTC |
+| 6 | Ethereum | Steakhouse Prime Instant | v2 | USDC | 3.74 | $8,017,208 | wstETH, cbBTC, WBTC |
+| 7 | Ethereum | Vault Bridge USDC | v1 | USDC | 3.54 | $0.00 | wstETH, cbBTC, WBTC |
+| 8 | Ethereum | Avantgarde USDC Conservative | v2 | USDC | 3.48 | $8,667,881 | None |
+| 9 | Ethereum | Api3 Core USDC | v2 | USDC | 3.34 | $10,204,374 | wstETH, cbBTC |
+| 10 | Ethereum | Api3 Core USDC | v1 | USDC | 3.33 | $0.00 | wstETH, cbBTC |
 
 ---
 
