@@ -1,6 +1,6 @@
 # Euler Supply Opportunities Report
 
-**Generated:** 2026-02-04 05:28:28 UTC
+**Generated:** 2026-02-06 19:26:53 UTC
 **Total Opportunities:** 4
 **Filter:** DeFi Arsenal Stablecoins (26 assets) + Collateral (40 assets)
 **TVL Filter:** Minimum $2,000,000
@@ -11,7 +11,7 @@
 - **Unique Chains:** 1
 - **Opportunities by Chain:**
   - Ethereum: 4
-- **Highest APY:** 8.28% (Sentora PYUSD on Ethereum)
+- **Highest APY:** 0.00% (Sentora RLUSD on Ethereum)
 
 ## All Opportunities
 
@@ -19,10 +19,10 @@ Sorted by Total APY (descending)
 
 | Rank | Chain | Asset | Vault Name | Collateral Assets | Total APY (%) | Supply Cap Status | TVL (USD) |
 |------|-------|-------|------------|-------------------|---------------|-------------------|-----------|
-| 1 | Ethereum | PYUSD | Sentora PYUSD | USDC, USDe, sUSDe | 8.28 | capped | $250,003,847 |
-| 2 | Ethereum | RLUSD | Sentora RLUSD | USDC, sUSDe, PT-sUSDE-27NOV2025 | 7.87 | available | $190,003,775 |
-| 3 | Ethereum | USDC | Sentora RLUSD | RLUSD, sUSDe, PT-sUSDE-27NOV2025 | 4.98 | available | $97,528,458 |
-| 4 | Ethereum | USDC | Sentora PYUSD | USDe, PYUSD, sUSDe | 4.95 | capped | $139,950,924 |
+| 1 | Ethereum | RLUSD | Sentora RLUSD | USDC, sUSDe, PT-sUSDE-27NOV2025 | 0.00 | available | $189,978,066 |
+| 2 | Ethereum | PYUSD | Sentora PYUSD | USDC, USDe, sUSDe | 0.00 | available | $279,915,539 |
+| 3 | Ethereum | USDC | Sentora PYUSD | USDe, PYUSD, sUSDe | 0.00 | available | $169,964,439 |
+| 4 | Ethereum | USDC | Sentora RLUSD | RLUSD, sUSDe, PT-sUSDE-27NOV2025 | 0.00 | available | $99,386,627 |
 
 ---
 
