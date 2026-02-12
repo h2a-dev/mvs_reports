@@ -1,16 +1,16 @@
 # AAVE Supply Opportunities Report
 
-**Generated:** 2026-02-07 03:41:10 UTC
+**Generated:** 2026-02-12 22:19:19 UTC
 **Total Opportunities:** 50
 **Filter:** DeFi Arsenal Stablecoins Only (26 stablecoins)
 
 ## Summary
 
-- **Total TVL:** $15,409,918,939
-- **Total Daily Merkle Rewards:** $284,435.59
-- **Opportunities with Merkle Rewards:** 7
-- **Opportunities without Merkle Rewards:** 43
-- **Highest Total APY:** 6.71% (USDG on Ethereum)
+- **Total TVL:** $15,605,450,660
+- **Total Daily Merkle Rewards:** $272,976.80
+- **Opportunities with Merkle Rewards:** 6
+- **Opportunities without Merkle Rewards:** 44
+- **Highest Total APY:** 5.15% (RLUSD on Ethereum)
 
 ## All Opportunities
 
@@ -18,56 +18,56 @@ Sorted by Total APY (descending)
 
 | Rank | Chain | Market | Asset | Aave APY (%) | Merkle APR (%) | Merkle APY (%) | Total APY (%) | TVL (USD) | Daily Rewards (USD) | Supply Cap Status |
 |------|-------|--------|-------|--------------|----------------|----------------|---------------|-----------|---------------------|-------------------|
-| 1 | Ethereum | AaveV3Ethereum | USDG | 0.31 | 6.20 | 6.40 | 6.71 | $29,162,181 | $4,918.70 | ✓ Available |
-| 2 | Ethereum | AaveV3Ethereum | RLUSD | 0.95 | 4.29 | 4.38 | 5.33 | $600,328,658 | $70,335.36 | ✓ Available |
-| 3 | Ethereum | AaveV3EthereumHorizon | RLUSD | 0.83 | 4.25 | 4.34 | 5.18 | $220,541,510 | $22,649.79 | ✓ Available |
-| 4 | Ethereum | AaveV3Ethereum | PYUSD | 1.88 | 2.61 | 2.65 | 4.53 | $442,580,082 | $31,655.92 | ✓ Available |
-| 5 | Ethereum | AaveV3Ethereum | USDe | 0.87 | 3.27 | 3.33 | 4.19 | $1,109,336,231 | $73,762.20 | ✓ Available |
-| 6 | Base | AaveV3Base | USDC | 3.96 | 0.00 | 0.00 | 3.96 | $402,561,331 | $0.00 | ✓ Available |
-| 7 | Avalanche | AaveV3Avalanche | GHO | 3.41 | 0.00 | 0.00 | 3.41 | $2,695,264 | $0.00 | ✓ Available |
-| 8 | Ethereum | AaveV3Ethereum | sUSDe | 0.00 | 3.27 | 3.33 | 3.33 | $1,248,518,896 | $73,762.20 | ✓ Available |
-| 9 | zkSync | AaveV3ZkSync | USDC | 3.32 | 0.00 | 0.00 | 3.32 | $702,379.38 | $0.00 | ✓ Available |
-| 10 | Ethereum | AaveV3EthereumHorizon | USDC | 3.17 | 0.00 | 0.00 | 3.17 | $31,759,896 | $0.00 | ✓ Available |
-| 11 | Gnosis | AaveV3Gnosis | GHO | 2.93 | 0.00 | 0.00 | 2.93 | $798,201.58 | $0.00 | ✓ Available |
-| 12 | zkSync | AaveV3ZkSync | USDT | 2.84 | 0.00 | 0.00 | 2.84 | $144,007.41 | $0.00 | ✓ Available |
-| 13 | BSC | AaveV3BNB | USDC | 2.80 | 0.00 | 0.00 | 2.80 | $20,287,610 | $0.00 | ✓ Available |
-| 14 | Ethereum | AaveV3Ethereum | USDC | 2.71 | 0.00 | 0.00 | 2.71 | $4,011,654,558 | $0.00 | ✓ Available |
-| 15 | Linea | AaveV3Linea | USDC | 2.64 | 0.00 | 0.00 | 2.64 | $7,501,455 | $0.00 | ✓ Available |
-| 16 | Avalanche | AaveV3Avalanche | USDC | 2.58 | 0.00 | 0.00 | 2.58 | $108,039,932 | $0.00 | ✓ Available |
-| 17 | Arbitrum | AaveV3Arbitrum | USD₮0 | 2.54 | 0.00 | 0.00 | 2.54 | $91,913,716 | $0.00 | ✓ Available |
-| 18 | Arbitrum | AaveV3Arbitrum | GHO | 2.45 | 0.00 | 0.00 | 2.45 | $2,325,554 | $0.00 | ✓ Available |
-| 19 | Base | AaveV3Base | GHO | 2.44 | 0.00 | 0.00 | 2.44 | $8,456,785 | $0.00 | ✓ Available |
-| 20 | Polygon | AaveV3Polygon | USDC | 2.39 | 0.00 | 0.00 | 2.39 | $4,989,712 | $0.00 | ✓ Available |
-| 21 | Ethereum | AaveV3EthereumLido | USDC | 2.37 | 0.00 | 0.00 | 2.37 | $5,425,340 | $0.00 | ✓ Available |
-| 22 | Arbitrum | AaveV3Arbitrum | USDC | 2.30 | 0.00 | 0.00 | 2.30 | $277,197,587 | $0.00 | ✓ Available |
-| 23 | Ethereum | AaveV3EthereumLido | GHO | 2.28 | 0.00 | 0.00 | 2.28 | $120,680,935 | $0.00 | ✓ Available |
-| 24 | Ethereum | AaveV3Ethereum | USDT | 2.12 | 0.00 | 0.00 | 2.12 | $5,617,033,691 | $0.00 | ✓ Available |
-| 25 | Polygon | AaveV3Polygon | USDT0 | 2.09 | 0.00 | 0.00 | 2.09 | $45,704,336 | $0.00 | ✓ Available |
-| 26 | Optimism | AaveV3Optimism | USDT | 1.97 | 0.00 | 0.00 | 1.97 | $6,871,033 | $0.00 | ✓ Available |
-| 27 | BSC | AaveV3BNB | USDT | 1.96 | 0.00 | 0.00 | 1.96 | $75,709,733 | $0.00 | ✓ Available |
-| 28 | Celo | AaveV3Celo | USDC | 1.92 | 0.00 | 0.00 | 1.92 | $394,251.08 | $0.00 | ✓ Available |
-| 29 | Avalanche | AaveV3Avalanche | EURC | 1.91 | 0.00 | 0.00 | 1.91 | $1,532,758 | $0.00 | ✓ Available |
-| 30 | Optimism | AaveV3Optimism | USDC | 1.89 | 0.00 | 0.00 | 1.89 | $19,549,848 | $0.00 | ✓ Available |
-| 31 | Ethereum | AaveV3Ethereum | EURC | 1.86 | 0.00 | 0.00 | 1.86 | $88,102,129 | $0.00 | ✓ Available |
-| 32 | Arbitrum | AaveV3Arbitrum | USDC | 1.77 | 0.00 | 0.00 | 1.77 | $1,863,274 | $0.00 | ✓ Available |
-| 33 | Polygon | AaveV3Polygon | USDC | 1.70 | 0.00 | 0.00 | 1.70 | $45,127,749 | $0.00 | ✓ Available |
-| 34 | Avalanche | AaveV3Avalanche | USDt | 1.60 | 0.00 | 0.00 | 1.60 | $71,657,771 | $0.00 | ✓ Available |
-| 35 | Base | AaveV3Base | syrupUSDC | 0.00 | 1.50 | 1.51 | 1.51 | $230,044,455 | $7,351.41 | ✓ Available |
-| 36 | Ethereum | AaveV3EthereumEtherFi | USDC | 1.51 | 0.00 | 0.00 | 1.51 | $8,645.44 | $0.00 | ✗ Capped |
-| 37 | Linea | AaveV3Linea | USDT | 1.48 | 0.00 | 0.00 | 1.48 | $2,178,596 | $0.00 | ✓ Available |
-| 38 | Base | AaveV3Base | EURC | 1.39 | 0.00 | 0.00 | 1.39 | $25,621,792 | $0.00 | ✓ Available |
-| 39 | Optimism | AaveV3Optimism | USDC | 1.32 | 0.00 | 0.00 | 1.32 | $2,039,586 | $0.00 | ✓ Available |
-| 40 | Sonic | AaveV3Sonic | USDC | 0.71 | 0.00 | 0.00 | 0.71 | $9,547,315 | $0.00 | ✓ Available |
-| 41 | Scroll | AaveV3Scroll | USDC | 0.66 | 0.00 | 0.00 | 0.66 | $1,078,245 | $0.00 | ✓ Available |
-| 42 | Avalanche | AaveV3Avalanche | USDe | 0.58 | 0.00 | 0.00 | 0.58 | $2,841.18 | $0.00 | ✓ Available |
-| 43 | Ethereum | AaveV3EthereumHorizon | GHO | 0.48 | 0.00 | 0.00 | 0.48 | $79,564,476 | $0.00 | ✓ Available |
-| 44 | Gnosis | AaveV3Gnosis | USDC | 0.02 | 0.00 | 0.00 | 0.02 | $192,198.36 | $0.00 | ✗ Capped |
-| 45 | Ethereum | AaveV3EthereumEtherFi | PYUSD | 0.00 | 0.00 | 0.00 | 0.00 | $111.62 | $0.00 | ✗ Capped |
-| 46 | zkSync | AaveV3ZkSync | sUSDe | 0.00 | 0.00 | 0.00 | 0.00 | $126.87 | $0.00 | ✓ Available |
-| 47 | Avalanche | AaveV3Avalanche | sUSDe | 0.00 | 0.00 | 0.00 | 0.00 | $28,903.10 | $0.00 | ✓ Available |
-| 48 | Ethereum | AaveV3Ethereum | GHO | 0.00 | 0.00 | 0.00 | 0.00 | $185,370,958 | $0.00 | ✗ Capped |
-| 49 | Ethereum | AaveV3Ethereum | syrupUSDT | 0.00 | 0.00 | 0.00 | 0.00 | $153,042,331 | $0.00 | ✓ Available |
-| 50 | Ethereum | AaveV3EthereumLido | sUSDe | 0.00 | 0.00 | 0.00 | 0.00 | $49,967.24 | $0.00 | ✓ Available |
+| 1 | Ethereum | AaveV3Ethereum | RLUSD | 0.91 | 4.16 | 4.24 | 5.15 | $617,851,079 | $70,348.74 | ✓ Available |
+| 2 | Ethereum | AaveV3EthereumHorizon | RLUSD | 0.83 | 3.99 | 4.07 | 4.90 | $219,010,507 | $21,104.62 | ✓ Available |
+| 3 | Ethereum | AaveV3Ethereum | USDe | 1.26 | 3.25 | 3.30 | 4.57 | $1,054,378,969 | $73,719.76 | ✓ Available |
+| 4 | Avalanche | AaveV3Avalanche | GHO | 4.24 | 0.00 | 0.00 | 4.24 | $2,323,210 | $0.00 | ✓ Available |
+| 5 | Ethereum | AaveV3Ethereum | PYUSD | 1.64 | 2.49 | 2.52 | 4.16 | $463,932,902 | $31,655.92 | ✓ Available |
+| 6 | Ethereum | AaveV3Ethereum | USDG | 3.60 | 0.00 | 0.00 | 3.60 | $34,574,570 | $0.00 | ✓ Available |
+| 7 | Ethereum | AaveV3EthereumHorizon | USDC | 3.42 | 0.00 | 0.00 | 3.42 | $37,033,741 | $0.00 | ✓ Available |
+| 8 | Ethereum | AaveV3Ethereum | sUSDe | 0.00 | 3.25 | 3.30 | 3.30 | $1,168,577,688 | $73,719.76 | ✓ Available |
+| 9 | Base | AaveV3Base | USDC | 3.30 | 0.00 | 0.00 | 3.30 | $440,089,493 | $0.00 | ✓ Available |
+| 10 | zkSync | AaveV3ZkSync | USDC | 3.12 | 0.00 | 0.00 | 3.12 | $720,459.55 | $0.00 | ✓ Available |
+| 11 | Arbitrum | AaveV3Arbitrum | GHO | 3.08 | 0.00 | 0.00 | 3.08 | $1,898,115 | $0.00 | ✓ Available |
+| 12 | Gnosis | AaveV3Gnosis | GHO | 2.94 | 0.00 | 0.00 | 2.94 | $798,457.77 | $0.00 | ✓ Available |
+| 13 | zkSync | AaveV3ZkSync | USDT | 2.89 | 0.00 | 0.00 | 2.89 | $141,648.75 | $0.00 | ✓ Available |
+| 14 | Avalanche | AaveV3Avalanche | USDC | 2.76 | 0.00 | 0.00 | 2.76 | $104,886,101 | $0.00 | ✓ Available |
+| 15 | Ethereum | AaveV3Ethereum | EURC | 2.59 | 0.00 | 0.00 | 2.59 | $83,895,970 | $0.00 | ✓ Available |
+| 16 | Base | AaveV3Base | GHO | 2.54 | 0.00 | 0.00 | 2.54 | $7,420,420 | $0.00 | ✓ Available |
+| 17 | Linea | AaveV3Linea | USDC | 2.39 | 0.00 | 0.00 | 2.39 | $7,139,326 | $0.00 | ✓ Available |
+| 18 | Ethereum | AaveV3Ethereum | USDC | 2.35 | 0.00 | 0.00 | 2.35 | $3,906,311,954 | $0.00 | ✓ Available |
+| 19 | Polygon | AaveV3Polygon | USDC | 2.34 | 0.00 | 0.00 | 2.34 | $5,156,335 | $0.00 | ✓ Available |
+| 20 | Ethereum | AaveV3EthereumLido | USDC | 2.24 | 0.00 | 0.00 | 2.24 | $5,424,226 | $0.00 | ✓ Available |
+| 21 | Polygon | AaveV3Polygon | USDC | 2.10 | 0.00 | 0.00 | 2.10 | $41,523,223 | $0.00 | ✓ Available |
+| 22 | Avalanche | AaveV3Avalanche | EURC | 2.09 | 0.00 | 0.00 | 2.09 | $1,452,704 | $0.00 | ✓ Available |
+| 23 | Polygon | AaveV3Polygon | USDT0 | 2.06 | 0.00 | 0.00 | 2.06 | $45,937,596 | $0.00 | ✓ Available |
+| 24 | BSC | AaveV3BNB | USDT | 1.96 | 0.00 | 0.00 | 1.96 | $75,355,966 | $0.00 | ✓ Available |
+| 25 | Optimism | AaveV3Optimism | USDC | 1.93 | 0.00 | 0.00 | 1.93 | $19,344,771 | $0.00 | ✓ Available |
+| 26 | BSC | AaveV3BNB | USDC | 1.84 | 0.00 | 0.00 | 1.84 | $19,870,965 | $0.00 | ✓ Available |
+| 27 | Arbitrum | AaveV3Arbitrum | USDC | 1.84 | 0.00 | 0.00 | 1.84 | $281,420,370 | $0.00 | ✓ Available |
+| 28 | Ethereum | AaveV3Ethereum | USDT | 1.83 | 0.00 | 0.00 | 1.83 | $5,973,478,320 | $0.00 | ✓ Available |
+| 29 | Arbitrum | AaveV3Arbitrum | USDC | 1.79 | 0.00 | 0.00 | 1.79 | $1,830,634 | $0.00 | ✓ Available |
+| 30 | Optimism | AaveV3Optimism | USDT | 1.71 | 0.00 | 0.00 | 1.71 | $7,203,883 | $0.00 | ✓ Available |
+| 31 | Arbitrum | AaveV3Arbitrum | USD₮0 | 1.63 | 0.00 | 0.00 | 1.63 | $85,898,200 | $0.00 | ✓ Available |
+| 32 | Ethereum | AaveV3EthereumLido | GHO | 1.61 | 0.00 | 0.00 | 1.61 | $118,624,265 | $0.00 | ✓ Available |
+| 33 | Linea | AaveV3Linea | USDT | 1.53 | 0.00 | 0.00 | 1.53 | $2,072,210 | $0.00 | ✓ Available |
+| 34 | Ethereum | AaveV3EthereumEtherFi | USDC | 1.51 | 0.00 | 0.00 | 1.51 | $8,648.33 | $0.00 | ✗ Capped |
+| 35 | Optimism | AaveV3Optimism | USDC | 1.39 | 0.00 | 0.00 | 1.39 | $1,986,307 | $0.00 | ✓ Available |
+| 36 | Avalanche | AaveV3Avalanche | USDt | 1.39 | 0.00 | 0.00 | 1.39 | $71,836,201 | $0.00 | ✓ Available |
+| 37 | Scroll | AaveV3Scroll | USDC | 1.01 | 0.00 | 0.00 | 1.01 | $869,391.52 | $0.00 | ✓ Available |
+| 38 | Celo | AaveV3Celo | USDC | 0.86 | 0.00 | 0.00 | 0.86 | $403,667.63 | $0.00 | ✓ Available |
+| 39 | Sonic | AaveV3Sonic | USDC | 0.74 | 0.00 | 0.00 | 0.74 | $9,179,553 | $0.00 | ✓ Available |
+| 40 | Base | AaveV3Base | syrupUSDC | 0.00 | 0.50 | 0.50 | 0.50 | $228,113,865 | $2,427.99 | ✓ Available |
+| 41 | Base | AaveV3Base | EURC | 0.42 | 0.00 | 0.00 | 0.42 | $25,086,061 | $0.00 | ✓ Available |
+| 42 | Avalanche | AaveV3Avalanche | USDe | 0.29 | 0.00 | 0.00 | 0.29 | $2,842.17 | $0.00 | ✓ Available |
+| 43 | Ethereum | AaveV3EthereumHorizon | GHO | 0.24 | 0.00 | 0.00 | 0.24 | $79,569,957 | $0.00 | ✓ Available |
+| 44 | Gnosis | AaveV3Gnosis | USDC | 0.02 | 0.00 | 0.00 | 0.02 | $191,286.11 | $0.00 | ✗ Capped |
+| 45 | Ethereum | AaveV3EthereumEtherFi | PYUSD | 0.00 | 0.00 | 0.00 | 0.00 | $111.60 | $0.00 | ✗ Capped |
+| 46 | zkSync | AaveV3ZkSync | sUSDe | 0.00 | 0.00 | 0.00 | 0.00 | $126.93 | $0.00 | ✓ Available |
+| 47 | Avalanche | AaveV3Avalanche | sUSDe | 0.00 | 0.00 | 0.00 | 0.00 | $29,526.36 | $0.00 | ✓ Available |
+| 48 | Ethereum | AaveV3Ethereum | GHO | 0.00 | 0.00 | 0.00 | 0.00 | $185,450,836 | $0.00 | ✗ Capped |
+| 49 | Ethereum | AaveV3Ethereum | syrupUSDT | 0.00 | 0.00 | 0.00 | 0.00 | $167,097,366 | $0.00 | ✓ Available |
+| 50 | Ethereum | AaveV3EthereumLido | sUSDe | 0.00 | 0.00 | 0.00 | 0.00 | $46,634.56 | $0.00 | ✓ Available |
 
 ---
 
